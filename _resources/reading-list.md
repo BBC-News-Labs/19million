@@ -49,3 +49,6 @@ Campaigning story about Norway and an inclusive society's success.
 
 A terrific investigation-as-it-happens taking place on Medium, searching for a missing boat with 243 people on board.
 
+#### [Migrant crisis: Monthly record of 218,000 reach EU by sea](http://www.bbc.com/news/world-europe-34700104) - *BBC News*
+
+A massive 218,000 reach EU by sea in October. Full data from UNHCR [here](http://data.unhcr.org/).
