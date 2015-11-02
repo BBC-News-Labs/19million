@@ -1,11 +1,9 @@
 ---
 layout: page
-title: About
+title: about
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+BBC News Labs is represented at [19 Million Project](http://the19millionproject.com/) in Rome by [Basile](https://twitter.com/basilesimon), [Francesco](https://twitter.com/dhinus), and [Sylvia](https://twitter.com/sytpp).
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+We're curating this space as a master list of sources we can use.
