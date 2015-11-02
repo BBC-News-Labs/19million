@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>19 Million Project - BBC News Labs</title>
-    <description>A simple, whitespace, helvetica based portfolio theme.
+    <description>Resources for the 19 Million project event in Rome
 </description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 02 Nov 2015 12:21:52 +0000</pubDate>
-    <lastBuildDate>Mon, 02 Nov 2015 12:21:52 +0000</lastBuildDate>
+    <pubDate>Mon, 02 Nov 2015 12:29:54 +0000</pubDate>
+    <lastBuildDate>Mon, 02 Nov 2015 12:29:54 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
   </channel>

@@ -401,6 +401,9 @@ pre {
   vertical-align: middle;
   font-size: 12px; }
 
+hr {
+  margin-bottom: 1.5em; }
+
 /**
  * Syntax highlighting styles
  */
