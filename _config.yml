@@ -1,7 +1,7 @@
 # Site settings
 title: 19 Million Project - BBC News Labs
 description: > # this means to ignore newlines until "baseurl:"
-  A simple, whitespace, helvetica based portfolio theme.
+  Resources for the 19 Million project event in Rome
 baseurl:  # the subpath of your site, e.g. /blog/
 url:  # the base hostname & protocol for your site
 twitter_username: BBC_News_Labs
@@ -18,11 +18,7 @@ paginate_path: "/blog/page:num/"
 
 
 collections:
-  portfolio:
+  resources:
     output: true
-    permalink: /portfolio/:path/
-  poetry:
-    output: true
-    permalink: /poetry/:path/
-
+    permalink: /resources/:path/
 

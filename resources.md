@@ -4,7 +4,7 @@ title: resources
 permalink: /resources/
 ---
 
-{% for project in site.portfolio %}
+{% for project in site.resources %}
 
 {% if project.redirect %}
 <div class="project">
