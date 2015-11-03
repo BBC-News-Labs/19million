@@ -6,9 +6,33 @@
 </description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 02 Nov 2015 13:02:55 +0000</pubDate>
-    <lastBuildDate>Mon, 02 Nov 2015 13:02:55 +0000</lastBuildDate>
+    <pubDate>Tue, 03 Nov 2015 10:43:18 +0000</pubDate>
+    <lastBuildDate>Tue, 03 Nov 2015 10:43:18 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Day 2 updates</title>
+        <description>&lt;p&gt;&lt;img class=&quot;center&quot; src=&quot;/img/IMG_4873.JPG&quot; width=&quot;400&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s day two here in Rome. Francesco joined the News Labs party in the middle of the night, and the events are finally kicking off - after a couple of espressos and a good night of sleep.&lt;/p&gt;
+
+&lt;p&gt;Yesterday, we set up this space as a place to drop and aggregate publicly what we’ll be working on these next two weeks.&lt;/p&gt;
+
+&lt;h4 id=&quot;heres-our-plan-for-today&quot;&gt;Here’s our plan for today:&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Put up a small list of recommended datasets and sources (mostly institutional)&lt;/li&gt;
+  &lt;li&gt;Publish some topic-modelling work from Sylvia&lt;/li&gt;
+  &lt;li&gt;Continue to update the &lt;a href=&quot;http://19mm.bbcnewslabs.co.uk/resources/reading-list/&quot;&gt;reading list&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Tue, 03 Nov 2015 00:00:00 +0000</pubDate>
+        <link>/2015/11/03/day2.html</link>
+        <guid isPermaLink="true">/2015/11/03/day2.html</guid>
+        
+        
+      </item>
     
   </channel>
 </rss>

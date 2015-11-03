@@ -404,6 +404,10 @@ pre {
 hr {
   margin-bottom: 1.5em; }
 
+img.center {
+  display: block;
+  margin: 0 auto; }
+
 /**
  * Syntax highlighting styles
  */
