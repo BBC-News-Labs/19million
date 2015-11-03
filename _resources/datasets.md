@@ -18,4 +18,4 @@ There's a lot in there, including a [documented and free](http://data.unhcr.org/
 
 The Commission's statistical agency keeps records of a bunch of things, including of asylum applications and first instance decisions in the EU-28. Here's their [September 2015 quarterly report](http://ec.europa.eu/eurostat/statistics-explained/index.php/Asylum_quarterly_report), as well as [a ton more data](http://ec.europa.eu/eurostat/statistics-explained/index.php/Asylum_quarterly_report#Further_Eurostat_information), and [the full dataset](http://appsso.eurostat.ec.europa.eu/nui/show.do) (complete with its silly webapp).
 
-[John Burn-Murdoch](https://twitter.com/jburnmurdoch) used [this R package](https://cran.r-project.org/web/packages/SmarterPoland/SmarterPoland.pdf) yesterday for his workshop - which will automate fetching the data.
+[John Burn-Murdoch](https://twitter.com/jburnmurdoch) used [this R package](https://cran.r-project.org/web/packages/SmarterPoland/SmarterPoland.pdf) yesterday for his workshop - which will automate fetching the data. Here's a [link to John's R script](https://gist.github.com/johnburnmurdoch/5424442fd49d67f6672e).
