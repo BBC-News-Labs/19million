@@ -195,6 +195,9 @@ clear: both;
 }
 .project {
 width: 33.33%;
+@include media-query($on-palm) {
+  width: 230px;
+}
 height: 250px;
 float: left;
 vertical-align: middle;
