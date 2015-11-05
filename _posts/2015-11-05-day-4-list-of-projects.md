@@ -7,7 +7,7 @@ It's day four already here in Rome.
 
 Groups have formed - some organically, some others by clustering and assembling similar project ideas.
 
-This afternoon, we gave a 20-minute presentation to explain a little bit who we are and what exactly it is News Labs does. We picked a few examples tailord for the event's theme: the refugee crisis.
+This afternoon, we gave a 20-minute presentation to explain a little bit who we are and what exactly it is News Labs does. We picked a few examples tailored for the event's theme: the refugee crisis.
 
 Juicer, in particular, was used to show the recent change in media coverage about the topic, and do some basic topic modelling (see Sylvia's post).
 
@@ -37,4 +37,4 @@ Receive images and notifications about the journey a fictional character takes t
 
 ---
 
-**TL;DR: we have cool projects we'd like to work on. Come have a *caffe* and a chat with us.**
+**TL;DR: we have cool projects we'd like to work on. Come have a *caffè* and a chat with us.**
