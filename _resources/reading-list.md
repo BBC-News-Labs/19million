@@ -8,6 +8,22 @@ description: some things you should read
 
 ---
 
+#### [People Movin](http://peoplemov.in/)
+
+Where do people come from and go - answered with an efficient visualisation. Note: could be cool to scrape this data!
+
+#### [African Dictatorship Fuels Migrant Crisis](http://www.wsj.com/articles/eritreans-flee-conscription-and-poverty-adding-to-the-migrant-crisis-in-europe-1445391364) - *Wall Street Journal*
+
+Long and solid read from the Journal about Eritrea - a country we don't hear much about.
+
+#### [Migration in the News/ the Census](http://seeingdata.cleverfranke.com/) - *Seeing Data, Clever Franke*
+
+Talking about clever and great web work, this UK centric piece presents many facets of migration.
+
+#### [Missing Migrants project](http://missingmigrants.iom.int/)
+
+Looks like a solid monitoring of deaths at sea, accompanied by detailed reports and infographics.
+
 #### [The Invisible Wall](https://www.youtube.com/watch?v=CgIuc9QHDUo&feature=youtu.be) - *Internazionale*
 
 Powerful video by Valeria Brigida and Mario Poeta, about the exclusive testimony of an Italian coastguard.
