@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 4, list of projects
+title: Day 4 - list of projects
 ---
 
 It's day four already here in Rome.
