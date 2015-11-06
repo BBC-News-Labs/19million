@@ -15,25 +15,35 @@ Then we chose to propose several projects and workstreams we would like to work 
 
 ## Projects summary
 
+
 #### Refugee Information Portal
+
 
 This project should tie well with other groups working on similar ideas - basically, aggregating content and data about the procedures one should follow when staying in a country: how to apply for asylum, where to take language classes...
 
+
 #### The quantitative effect of refugees and migrants on population structure and economy
+
 
 The mainstream narrative is that migrants come to Europe to claim things - but what do we get out of this? A more stable age distribution, more workforce...
 
 #### Connecting data-driven stories with human anecdotes
 
+
 Are the human anecdotes that carry the story we read actually representative of the massive diversity of situations people coming to Europe are in?
+
 
 #### FAQ/ News Quiz
 
+
 Debunking some myths by measuring your knowledge of the refugee crisis - its demographics, its outcomes...
+
 
 #### Real-time long game sending you occasional updates about a fictional refugee's whereabouts
 
+
 Receive images and notifications about the journey a fictional character takes through Europe in the middle of your normal day. You will also be asked to make decisions that will affect the risky trip from beyond the continent's borders to safe asylum.
+
 
 ---
 
