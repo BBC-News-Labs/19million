@@ -3,13 +3,15 @@ layout: post
 title: Updates from Project 5
 ---
 
-<img class="center" src="/img/IMG_7665.JPG" width="400">
+<img class="center" src="/img/IMG_7665.JPG" width="600">
 
 Basile, Francesco, and MIT Mike have been busy since the last update.
 
 They got stuck in with _Project 5_, and apologies in advance for a lame name inherited from a mis-titled PowerPoint slide. We will address that soon...
 
 The project is essentially an interactive experience delivered by your phone, made of regular updates you receive from a fictional character taking an epic journey from Syria to Germany.
+
+<img class="center" src="/img/telegraph2-placed_1024.png" width="600">
 
 [Mike](https://twitter.com/lazerwalker), a game developer at MIT Media Lab, already delivered a working prototype of an iOS app that handles everything - from push notifications to images. His experience in game mechanics is invaluable in the project development.
 
